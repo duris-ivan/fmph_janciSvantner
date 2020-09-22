@@ -16,4 +16,3 @@ DETAILS:
 * EXAMPLE :
 * ...Input: String sentence "The same rules . remain also when inserting an object as argument into the function."
 * ...Output: Count of words found in the sentence : 15  (using String methods)
-*/
